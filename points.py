@@ -1,3 +1,9 @@
+'''
+Chad Price
+chadsprice@gmail.com
+2/4/2021
+'''
+
 import flask
 from flask import abort, jsonify, request
 
